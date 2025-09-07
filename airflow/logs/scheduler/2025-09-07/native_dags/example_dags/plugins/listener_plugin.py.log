@@ -1,0 +1,30 @@
+[2025-09-07T22:27:32.800+0000] {processor.py:186} INFO - Started process (PID=11518) to work on /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:27:32.802+0000] {processor.py:914} INFO - Processing file /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-09-07T22:27:32.804+0000] {logging_mixin.py:190} INFO - [2025-09-07T22:27:32.804+0000] {dagbag.py:588} INFO - Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:27:32.806+0000] {processor.py:927} WARNING - No viable dags retrieved from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:27:32.817+0000] {processor.py:208} INFO - Processing /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.024 seconds
+[2025-09-07T22:28:39.982+0000] {processor.py:186} INFO - Started process (PID=12084) to work on /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:28:39.982+0000] {processor.py:914} INFO - Processing file /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-09-07T22:28:39.984+0000] {logging_mixin.py:190} INFO - [2025-09-07T22:28:39.983+0000] {dagbag.py:588} INFO - Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:28:39.985+0000] {processor.py:927} WARNING - No viable dags retrieved from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:28:39.994+0000] {processor.py:208} INFO - Processing /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.016 seconds
+[2025-09-07T22:29:34.158+0000] {processor.py:186} INFO - Started process (PID=12759) to work on /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:29:34.159+0000] {processor.py:914} INFO - Processing file /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-09-07T22:29:34.160+0000] {logging_mixin.py:190} INFO - [2025-09-07T22:29:34.160+0000] {dagbag.py:588} INFO - Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:29:34.161+0000] {processor.py:927} WARNING - No viable dags retrieved from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:29:34.169+0000] {processor.py:208} INFO - Processing /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.015 seconds
+[2025-09-07T22:30:24.213+0000] {processor.py:186} INFO - Started process (PID=13382) to work on /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:30:24.214+0000] {processor.py:914} INFO - Processing file /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-09-07T22:30:24.215+0000] {logging_mixin.py:190} INFO - [2025-09-07T22:30:24.215+0000] {dagbag.py:588} INFO - Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:30:24.217+0000] {processor.py:927} WARNING - No viable dags retrieved from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:30:24.224+0000] {processor.py:208} INFO - Processing /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.015 seconds
+[2025-09-07T22:31:06.903+0000] {processor.py:186} INFO - Started process (PID=14059) to work on /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:31:06.904+0000] {processor.py:914} INFO - Processing file /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-09-07T22:31:06.905+0000] {logging_mixin.py:190} INFO - [2025-09-07T22:31:06.905+0000] {dagbag.py:588} INFO - Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:31:06.907+0000] {processor.py:927} WARNING - No viable dags retrieved from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:31:06.914+0000] {processor.py:208} INFO - Processing /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.015 seconds
+[2025-09-07T22:32:01.025+0000] {processor.py:186} INFO - Started process (PID=14553) to work on /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:32:01.025+0000] {processor.py:914} INFO - Processing file /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2025-09-07T22:32:01.027+0000] {logging_mixin.py:190} INFO - [2025-09-07T22:32:01.026+0000] {dagbag.py:588} INFO - Filling up the DagBag from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:32:01.028+0000] {processor.py:927} WARNING - No viable dags retrieved from /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2025-09-07T22:32:01.036+0000] {processor.py:208} INFO - Processing /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.016 seconds

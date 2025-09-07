@@ -1,0 +1,15 @@
+[2025-09-07T23:55:53.469+0000] {processor.py:186} INFO - Started process (PID=51479) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_python_operators_01.py
+[2025-09-07T23:55:53.469+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_python_operators_01.py for tasks to queue
+[2025-09-07T23:55:53.470+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.470+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_python_operators_01.py
+[2025-09-07T23:55:53.479+0000] {processor.py:925} INFO - DAG(s) 'execute_python_operators' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_python_operators_01.py
+[2025-09-07T23:55:53.655+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.655+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:execute_python_operators
+[2025-09-07T23:55:53.663+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.663+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:execute_python_operators
+[2025-09-07T23:55:53.670+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.669+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:execute_python_operators
+[2025-09-07T23:55:53.679+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.679+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:execute_python_operators
+[2025-09-07T23:55:53.685+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.684+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:execute_python_operators
+[2025-09-07T23:55:53.690+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.690+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:execute_python_operators
+[2025-09-07T23:55:53.697+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.696+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:execute_python_operators
+[2025-09-07T23:55:53.697+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.697+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:55:53.705+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.705+0000] {dag.py:3262} INFO - Creating ORM DAG for execute_python_operators
+[2025-09-07T23:55:53.714+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:53.714+0000] {dag.py:4180} INFO - Setting next_dagrun for execute_python_operators to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:55:53.727+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_python_operators_01.py took 0.263 seconds

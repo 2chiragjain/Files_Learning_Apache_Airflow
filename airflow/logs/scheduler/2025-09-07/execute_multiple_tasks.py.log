@@ -1,0 +1,637 @@
+[2025-09-07T23:42:16.762+0000] {processor.py:186} INFO - Started process (PID=44972) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:42:16.763+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:42:16.788+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:16.788+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:42:16.854+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:42:17.116+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:17.113+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:42:17.207+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:17.206+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-06 00:00:00+00:00
+[2025-09-07T23:42:17.280+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.590 seconds
+[2025-09-07T23:42:48.346+0000] {processor.py:186} INFO - Started process (PID=45215) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:42:48.347+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:42:48.348+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:48.348+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:42:48.356+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:42:48.372+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:48.372+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:42:48.387+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:48.387+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to None, run_after=None
+[2025-09-07T23:42:48.402+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.059 seconds
+[2025-09-07T23:43:18.627+0000] {processor.py:186} INFO - Started process (PID=45427) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:43:18.628+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:43:18.629+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:43:18.629+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:43:18.636+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:43:18.651+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:43:18.651+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:43:18.666+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:43:18.666+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to None, run_after=None
+[2025-09-07T23:43:18.683+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.060 seconds
+[2025-09-07T23:43:34.169+0000] {processor.py:186} INFO - Started process (PID=45526) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:43:34.170+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:43:34.171+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:43:34.171+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:43:34.179+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:43:34.273+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:43:34.273+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:43:34.286+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:43:34.286+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to None, run_after=None
+[2025-09-07T23:43:34.301+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.137 seconds
+[2025-09-07T23:44:04.425+0000] {processor.py:186} INFO - Started process (PID=45755) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:04.425+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:44:04.427+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:04.427+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:04.434+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:04.449+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:04.449+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:44:04.465+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:04.465+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to None, run_after=None
+[2025-09-07T23:44:04.478+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.058 seconds
+[2025-09-07T23:44:10.829+0000] {processor.py:186} INFO - Started process (PID=45814) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:10.830+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:44:10.831+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:10.831+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:10.839+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:10.924+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:10.924+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:44:10.941+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:10.941+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:44:10.960+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.135 seconds
+[2025-09-07T23:44:46.401+0000] {processor.py:186} INFO - Started process (PID=46076) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:46.402+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:44:46.403+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:46.403+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:46.410+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:44:46.427+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:46.427+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:44:46.441+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:44:46.441+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:44:46.458+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.061 seconds
+[2025-09-07T23:45:16.552+0000] {processor.py:186} INFO - Started process (PID=46280) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:45:16.553+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:45:16.554+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:45:16.554+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:45:16.563+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:45:16.579+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:45:16.579+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:45:16.594+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:45:16.594+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:45:16.609+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.062 seconds
+[2025-09-07T23:45:46.855+0000] {processor.py:186} INFO - Started process (PID=46492) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:45:46.855+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:45:46.857+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:45:46.857+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:45:46.865+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:45:46.881+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:45:46.881+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:45:46.895+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:45:46.895+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:45:46.910+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.059 seconds
+[2025-09-07T23:46:17.193+0000] {processor.py:186} INFO - Started process (PID=46703) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:17.195+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:46:17.198+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:46:17.198+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:17.210+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:17.238+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:46:17.237+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:46:17.254+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:46:17.254+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:46:17.268+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.083 seconds
+[2025-09-07T23:46:21.574+0000] {processor.py:186} INFO - Started process (PID=46761) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:21.574+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:46:21.576+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:46:21.576+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:21.584+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:46:21.582+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:46:21.586+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:21.599+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.030 seconds
+[2025-09-07T23:46:51.907+0000] {processor.py:186} INFO - Started process (PID=47138) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:51.908+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:46:51.909+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:46:51.909+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:51.915+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:46:51.913+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:46:51.917+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:46:51.931+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.027 seconds
+[2025-09-07T23:47:22.760+0000] {processor.py:186} INFO - Started process (PID=47415) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:47:22.761+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:47:22.763+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:47:22.763+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:47:22.773+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:47:22.769+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:47:22.776+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:47:22.795+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.041 seconds
+[2025-09-07T23:47:52.971+0000] {processor.py:186} INFO - Started process (PID=47733) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:47:52.972+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:47:52.973+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:47:52.973+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:47:52.979+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:47:52.977+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:47:52.981+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:47:52.995+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.028 seconds
+[2025-09-07T23:48:23.270+0000] {processor.py:186} INFO - Started process (PID=47946) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:48:23.270+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:48:23.271+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:48:23.271+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:48:23.278+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:48:23.276+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:48:23.280+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:48:23.292+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.028 seconds
+[2025-09-07T23:48:53.606+0000] {processor.py:186} INFO - Started process (PID=48288) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:48:53.606+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:48:53.607+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:48:53.607+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:48:53.614+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:48:53.612+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:48:53.615+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:48:53.628+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.026 seconds
+[2025-09-07T23:49:23.940+0000] {processor.py:186} INFO - Started process (PID=48504) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:49:23.940+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:49:23.942+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:49:23.941+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:49:23.954+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:49:23.950+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:49:23.956+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:49:23.968+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.035 seconds
+[2025-09-07T23:49:54.158+0000] {processor.py:186} INFO - Started process (PID=48710) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:49:54.159+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:49:54.160+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:49:54.159+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:49:54.166+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:49:54.164+0000] {dagbag.py:387} ERROR - Failed to import: /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 994, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py", line 64, in <module>
+    airflow
+NameError: name 'airflow' is not defined
+[2025-09-07T23:49:54.168+0000] {processor.py:927} WARNING - No viable dags retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:49:54.181+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.027 seconds
+[2025-09-07T23:50:16.973+0000] {processor.py:186} INFO - Started process (PID=48868) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:16.974+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:50:16.975+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:16.974+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:16.983+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:17.072+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:17.072+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:50:17.085+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:17.085+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:50:17.104+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.135 seconds
+[2025-09-07T23:50:47.247+0000] {processor.py:186} INFO - Started process (PID=49111) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:47.248+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:50:47.249+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:47.248+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:47.257+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:47.273+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:47.273+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:50:47.287+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:47.287+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:50:47.302+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.059 seconds
+[2025-09-07T23:50:50.872+0000] {processor.py:186} INFO - Started process (PID=49138) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:50.872+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:50:50.873+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.873+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:50.883+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.882+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2025-09-07T23:50:50.884+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.883+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskB.sh
+[2025-09-07T23:50:50.884+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.884+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskC.sh
+[2025-09-07T23:50:50.885+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.884+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskD.sh
+[2025-09-07T23:50:50.885+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.885+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskE.sh
+[2025-09-07T23:50:50.886+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.885+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskF.sh
+[2025-09-07T23:50:50.886+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.886+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskG.sh
+[2025-09-07T23:50:50.889+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:50.974+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.974+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:50:50.987+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:50.987+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:50:51.007+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.140 seconds
+[2025-09-07T23:50:54.281+0000] {processor.py:186} INFO - Started process (PID=49149) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:54.281+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:50:54.282+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.282+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:54.291+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.290+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2025-09-07T23:50:54.291+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.291+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskB.sh
+[2025-09-07T23:50:54.292+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.292+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskC.sh
+[2025-09-07T23:50:54.292+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.292+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskD.sh
+[2025-09-07T23:50:54.293+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.293+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskE.sh
+[2025-09-07T23:50:54.293+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.293+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskF.sh
+[2025-09-07T23:50:54.294+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.293+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskG.sh
+[2025-09-07T23:50:54.297+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:50:54.303+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.303+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:50:54.323+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:50:54.323+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:50:54.345+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.069 seconds
+[2025-09-07T23:51:24.681+0000] {processor.py:186} INFO - Started process (PID=49363) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:51:24.682+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:51:24.682+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.682+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:51:24.691+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.690+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2025-09-07T23:51:24.691+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.691+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskB.sh
+[2025-09-07T23:51:24.692+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.691+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskC.sh
+[2025-09-07T23:51:24.692+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.692+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskD.sh
+[2025-09-07T23:51:24.693+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.692+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskE.sh
+[2025-09-07T23:51:24.693+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.693+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskF.sh
+[2025-09-07T23:51:24.693+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.693+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskG.sh
+[2025-09-07T23:51:24.697+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:51:24.720+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.720+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:51:24.743+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:24.743+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:51:24.761+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.084 seconds
+[2025-09-07T23:51:54.911+0000] {processor.py:186} INFO - Started process (PID=49593) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:51:54.912+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:51:54.913+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.912+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:51:54.927+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.925+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2025-09-07T23:51:54.927+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.927+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskB.sh
+[2025-09-07T23:51:54.928+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.928+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskC.sh
+[2025-09-07T23:51:54.929+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.928+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskD.sh
+[2025-09-07T23:51:54.929+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.929+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskE.sh
+[2025-09-07T23:51:54.930+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.930+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskF.sh
+[2025-09-07T23:51:54.930+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.930+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskG.sh
+[2025-09-07T23:51:54.934+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:51:54.951+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.951+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:51:54.965+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:51:54.965+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:51:54.981+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.076 seconds
+[2025-09-07T23:52:25.120+0000] {processor.py:186} INFO - Started process (PID=49833) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:52:25.121+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:52:25.122+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:25.121+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:52:25.133+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:52:25.217+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:25.217+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:52:25.231+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:25.231+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:52:25.330+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.214 seconds
+[2025-09-07T23:52:56.381+0000] {processor.py:186} INFO - Started process (PID=50066) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:52:56.381+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:52:56.382+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.382+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:52:56.392+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.391+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2025-09-07T23:52:56.392+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.392+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskB.sh
+[2025-09-07T23:52:56.393+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.392+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskC.sh
+[2025-09-07T23:52:56.393+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.393+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskD.sh
+[2025-09-07T23:52:56.394+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.393+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskE.sh
+[2025-09-07T23:52:56.394+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.394+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskF.sh
+[2025-09-07T23:52:56.395+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.394+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskG.sh
+[2025-09-07T23:52:56.398+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:52:56.507+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.507+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:52:56.629+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:52:56.628+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:52:56.644+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.267 seconds
+[2025-09-07T23:53:27.398+0000] {processor.py:186} INFO - Started process (PID=50350) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:53:27.399+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:53:27.401+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.400+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:53:27.415+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.414+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskA.sh
+[2025-09-07T23:53:27.416+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.416+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskB.sh
+[2025-09-07T23:53:27.418+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.417+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskC.sh
+[2025-09-07T23:53:27.420+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.418+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskD.sh
+[2025-09-07T23:53:27.421+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.420+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskE.sh
+[2025-09-07T23:53:27.421+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.421+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskF.sh
+[2025-09-07T23:53:27.422+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.422+0000] {templater.py:94} ERROR - Failed to resolve template field 'bash_command'
+Traceback (most recent call last):
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/template/templater.py", line 92, in resolve_template_files
+    setattr(self, field, env.loader.get_source(env, content)[0])  # type: ignore
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/jinja2/loaders.py", line 207, in get_source
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: taskG.sh
+[2025-09-07T23:53:27.427+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:53:27.456+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.456+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:53:27.483+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:27.483+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:53:27.513+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.121 seconds
+[2025-09-07T23:53:30.917+0000] {processor.py:186} INFO - Started process (PID=50392) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:53:30.918+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:53:30.919+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:30.918+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:53:30.930+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:53:31.126+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:31.126+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:53:31.139+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:53:31.139+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:53:31.154+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.241 seconds
+[2025-09-07T23:54:01.492+0000] {processor.py:186} INFO - Started process (PID=50642) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:54:01.493+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:54:01.494+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:54:01.494+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:54:01.506+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:54:01.523+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:54:01.522+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:54:01.537+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:54:01.537+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:54:01.554+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.065 seconds
+[2025-09-07T23:54:31.900+0000] {processor.py:186} INFO - Started process (PID=50860) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:54:31.900+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:54:31.902+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:54:31.901+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:54:31.913+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:54:32.091+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:54:32.090+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:54:32.103+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:54:32.102+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:54:32.120+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.224 seconds
+[2025-09-07T23:55:03.052+0000] {processor.py:186} INFO - Started process (PID=51104) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:55:03.053+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:55:03.054+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:03.054+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:55:03.066+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:55:03.082+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:03.082+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:55:03.179+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:03.179+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:55:03.193+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.145 seconds
+[2025-09-07T23:55:34.282+0000] {processor.py:186} INFO - Started process (PID=51325) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:55:34.283+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:55:34.284+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:34.283+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:55:34.295+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:55:34.314+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:34.314+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:55:34.425+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:55:34.425+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:55:34.439+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.161 seconds
+[2025-09-07T23:56:04.762+0000] {processor.py:186} INFO - Started process (PID=51569) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:56:04.762+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:56:04.763+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:56:04.763+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:56:04.774+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:56:04.794+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:56:04.794+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:56:04.906+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:56:04.906+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:56:04.920+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.163 seconds
+[2025-09-07T23:56:35.172+0000] {processor.py:186} INFO - Started process (PID=51790) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:56:35.172+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:56:35.173+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:56:35.173+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:56:35.184+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:56:35.202+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:56:35.201+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:56:35.301+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:56:35.301+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:56:35.315+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.148 seconds
+[2025-09-07T23:57:05.584+0000] {processor.py:186} INFO - Started process (PID=52144) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:57:05.585+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py for tasks to queue
+[2025-09-07T23:57:05.585+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:57:05.585+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:57:05.597+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py
+[2025-09-07T23:57:05.614+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:57:05.614+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:57:05.723+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:57:05.723+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-07T23:57:05.750+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks.py took 0.170 seconds

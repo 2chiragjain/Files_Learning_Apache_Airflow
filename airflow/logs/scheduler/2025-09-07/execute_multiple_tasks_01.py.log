@@ -1,0 +1,15 @@
+[2025-09-07T23:42:01.239+0000] {processor.py:186} INFO - Started process (PID=44852) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks_01.py
+[2025-09-07T23:42:01.240+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks_01.py for tasks to queue
+[2025-09-07T23:42:01.242+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.242+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks_01.py
+[2025-09-07T23:42:01.253+0000] {processor.py:925} INFO - DAG(s) 'executing_multiple_tasks' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks_01.py
+[2025-09-07T23:42:01.353+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.353+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:executing_multiple_tasks
+[2025-09-07T23:42:01.362+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.362+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:executing_multiple_tasks
+[2025-09-07T23:42:01.368+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.368+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:executing_multiple_tasks
+[2025-09-07T23:42:01.378+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.377+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:executing_multiple_tasks
+[2025-09-07T23:42:01.384+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.383+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:executing_multiple_tasks
+[2025-09-07T23:42:01.392+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.391+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:executing_multiple_tasks
+[2025-09-07T23:42:01.398+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.398+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:executing_multiple_tasks
+[2025-09-07T23:42:01.398+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.398+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-07T23:42:01.407+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.406+0000] {dag.py:3262} INFO - Creating ORM DAG for executing_multiple_tasks
+[2025-09-07T23:42:01.413+0000] {logging_mixin.py:190} INFO - [2025-09-07T23:42:01.412+0000] {dag.py:4180} INFO - Setting next_dagrun for executing_multiple_tasks to 2025-09-06 00:00:00+00:00, run_after=2025-09-06 00:00:00+00:00
+[2025-09-07T23:42:01.425+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/execute_multiple_tasks_01.py took 0.191 seconds
