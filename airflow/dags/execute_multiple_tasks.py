@@ -16,7 +16,7 @@ with DAG(
     start_date = days_ago(1),
     schedule_interval = timedelta(days=1),
     tags = ['scripts', 'template search'],
-    template_searchpath = '/workspaces/Files_Learning_Apache_Airflow/airflow/dags/bash_scripts'
+    template_searchpath = '/Users/loonycorn/airflow/dags/bash_scripts'
 ) as dag:
 
     taskA = BashOperator(

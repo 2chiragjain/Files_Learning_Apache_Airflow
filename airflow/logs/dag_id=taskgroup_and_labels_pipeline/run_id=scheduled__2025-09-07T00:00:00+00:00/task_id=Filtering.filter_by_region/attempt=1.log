@@ -1,0 +1,18 @@
+[2025-09-08T16:57:11.190+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-08T16:57:11.202+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: taskgroup_and_labels_pipeline.Filtering.filter_by_region scheduled__2025-09-07T00:00:00+00:00 [queued]>
+[2025-09-08T16:57:11.207+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: taskgroup_and_labels_pipeline.Filtering.filter_by_region scheduled__2025-09-07T00:00:00+00:00 [queued]>
+[2025-09-08T16:57:11.207+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2025-09-08T16:57:11.218+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): Filtering.filter_by_region> on 2025-09-07 00:00:00+00:00
+[2025-09-08T16:57:11.222+0000] {standard_task_runner.py:72} INFO - Started process 14177 to run task
+[2025-09-08T16:57:11.225+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'taskgroup_and_labels_pipeline', 'Filtering.filter_by_region', 'scheduled__2025-09-07T00:00:00+00:00', '--job-id', '108', '--raw', '--subdir', 'DAGS_FOLDER/executing_branching_pipeline.py', '--cfg-path', '/tmp/tmpqeeus2f8']
+[2025-09-08T16:57:11.226+0000] {standard_task_runner.py:105} INFO - Job 108: Subtask Filtering.filter_by_region
+[2025-09-08T16:57:11.256+0000] {task_command.py:467} INFO - Running <TaskInstance: taskgroup_and_labels_pipeline.Filtering.filter_by_region scheduled__2025-09-07T00:00:00+00:00 [running]> on host codespaces-9bd7b3
+[2025-09-08T16:57:11.299+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='taskgroup_and_labels_pipeline' AIRFLOW_CTX_TASK_ID='Filtering.filter_by_region' AIRFLOW_CTX_EXECUTION_DATE='2025-09-07T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2025-09-07T00:00:00+00:00'
+[2025-09-08T16:57:11.299+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-08T16:57:11.321+0000] {logging_mixin.py:190} WARNING - /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_branching_pipeline.py:40 FutureWarning: Passing literal json to 'read_json' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+[2025-09-08T16:57:11.336+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-09-08T16:57:11.339+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-08T16:57:11.340+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=taskgroup_and_labels_pipeline, task_id=Filtering.filter_by_region, run_id=scheduled__2025-09-07T00:00:00+00:00, execution_date=20250907T000000, start_date=20250908T165711, end_date=20250908T165711
+[2025-09-08T16:57:11.358+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-09-08T16:57:11.367+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-08T16:57:11.367+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

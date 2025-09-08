@@ -1,0 +1,15 @@
+[2025-09-08T15:16:38.243+0000] {processor.py:186} INFO - Started process (PID=8400) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_python_pipeline_01.py
+[2025-09-08T15:16:38.244+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_python_pipeline_01.py for tasks to queue
+[2025-09-08T15:16:38.246+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.245+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_python_pipeline_01.py
+[2025-09-08T15:16:38.655+0000] {processor.py:925} INFO - DAG(s) 'python_pipeline' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_python_pipeline_01.py
+[2025-09-08T15:16:38.741+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.741+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:python_pipeline
+[2025-09-08T15:16:38.758+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.758+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:python_pipeline
+[2025-09-08T15:16:38.765+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.764+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:python_pipeline
+[2025-09-08T15:16:38.774+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.774+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:python_pipeline
+[2025-09-08T15:16:38.780+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.780+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:python_pipeline
+[2025-09-08T15:16:38.787+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.787+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:python_pipeline
+[2025-09-08T15:16:38.793+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.792+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:python_pipeline
+[2025-09-08T15:16:38.793+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.793+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T15:16:38.802+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.801+0000] {dag.py:3262} INFO - Creating ORM DAG for python_pipeline
+[2025-09-08T15:16:38.809+0000] {logging_mixin.py:190} INFO - [2025-09-08T15:16:38.809+0000] {dag.py:4180} INFO - Setting next_dagrun for python_pipeline to 2025-09-07 00:00:00+00:00, run_after=2025-09-07 00:00:00+00:00
+[2025-09-08T15:16:38.825+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_python_pipeline_01.py took 0.588 seconds

@@ -1,0 +1,21 @@
+[2025-09-08T16:57:08.343+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-08T16:57:08.352+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: taskgroup_and_labels_pipeline.determine_branch manual__2025-09-08T16:56:53.736348+00:00 [queued]>
+[2025-09-08T16:57:08.357+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: taskgroup_and_labels_pipeline.determine_branch manual__2025-09-08T16:56:53.736348+00:00 [queued]>
+[2025-09-08T16:57:08.357+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2025-09-08T16:57:08.374+0000] {taskinstance.py:2888} INFO - Executing <Task(BranchPythonOperator): determine_branch> on 2025-09-08 16:56:53.736348+00:00
+[2025-09-08T16:57:08.378+0000] {standard_task_runner.py:72} INFO - Started process 14162 to run task
+[2025-09-08T16:57:08.381+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'taskgroup_and_labels_pipeline', 'determine_branch', 'manual__2025-09-08T16:56:53.736348+00:00', '--job-id', '107', '--raw', '--subdir', 'DAGS_FOLDER/executing_branching_pipeline.py', '--cfg-path', '/tmp/tmpdfmtnrze']
+[2025-09-08T16:57:08.382+0000] {standard_task_runner.py:105} INFO - Job 107: Subtask determine_branch
+[2025-09-08T16:57:08.408+0000] {task_command.py:467} INFO - Running <TaskInstance: taskgroup_and_labels_pipeline.determine_branch manual__2025-09-08T16:56:53.736348+00:00 [running]> on host codespaces-9bd7b3
+[2025-09-08T16:57:08.470+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='taskgroup_and_labels_pipeline' AIRFLOW_CTX_TASK_ID='determine_branch' AIRFLOW_CTX_EXECUTION_DATE='2025-09-08T16:56:53.736348+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-08T16:56:53.736348+00:00'
+[2025-09-08T16:57:08.471+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-08T16:57:08.489+0000] {baseoperator.py:405} WARNING - BranchPythonOperator.execute cannot be called outside TaskInstance!
+[2025-09-08T16:57:08.493+0000] {python.py:240} INFO - Done. Returned value was: Filtering.filter_by_region
+[2025-09-08T16:57:08.493+0000] {branch.py:38} INFO - Branch into Filtering.filter_by_region
+[2025-09-08T16:57:08.494+0000] {skipmixin.py:230} INFO - Following branch {'Filtering.filter_by_region'}
+[2025-09-08T16:57:08.499+0000] {skipmixin.py:278} INFO - Skipping tasks [('Filtering.filter_bmi_smoker_charges', -1), ('Grouping.groupby_region_smoker', -1)]
+[2025-09-08T16:57:08.517+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-08T16:57:08.517+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=taskgroup_and_labels_pipeline, task_id=determine_branch, run_id=manual__2025-09-08T16:56:53.736348+00:00, execution_date=20250908T165653, start_date=20250908T165708, end_date=20250908T165708
+[2025-09-08T16:57:08.554+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-09-08T16:57:08.570+0000] {taskinstance.py:3900} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-09-08T16:57:08.574+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

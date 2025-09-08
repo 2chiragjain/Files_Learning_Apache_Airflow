@@ -1,0 +1,36 @@
+[2025-09-08T15:34:12.447+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-08T15:34:12.454+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_sql_pipeline.insert_values_1 manual__2025-09-08T15:34:07.941265+00:00 [queued]>
+[2025-09-08T15:34:12.460+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_sql_pipeline.insert_values_1 manual__2025-09-08T15:34:07.941265+00:00 [queued]>
+[2025-09-08T15:34:12.460+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2025-09-08T15:34:12.472+0000] {taskinstance.py:2888} INFO - Executing <Task(SqliteOperator): insert_values_1> on 2025-09-08 15:34:07.941265+00:00
+[2025-09-08T15:34:12.475+0000] {standard_task_runner.py:72} INFO - Started process 17265 to run task
+[2025-09-08T15:34:12.477+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_sql_pipeline', 'insert_values_1', 'manual__2025-09-08T15:34:07.941265+00:00', '--job-id', '66', '--raw', '--subdir', 'DAGS_FOLDER/executing_sql_pipeline.py', '--cfg-path', '/tmp/tmpljvgdpyk']
+[2025-09-08T15:34:12.478+0000] {standard_task_runner.py:105} INFO - Job 66: Subtask insert_values_1
+[2025-09-08T15:34:12.502+0000] {task_command.py:467} INFO - Running <TaskInstance: executing_sql_pipeline.insert_values_1 manual__2025-09-08T15:34:07.941265+00:00 [running]> on host codespaces-9bd7b3
+[2025-09-08T15:34:12.548+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='executing_sql_pipeline' AIRFLOW_CTX_TASK_ID='insert_values_1' AIRFLOW_CTX_EXECUTION_DATE='2025-09-08T15:34:07.941265+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-08T15:34:07.941265+00:00'
+[2025-09-08T15:34:12.548+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-08T15:34:12.561+0000] {sql.py:266} INFO - Executing: 
+            INSERT INTO users (name, age, is_active) VALUES 
+                ('Julie', 30, false),
+                ('Peter', 55, true),
+                ('Emily', 37, false),
+                ('Katrina', 54, false),
+                ('Joseph', 27, true);
+        
+[2025-09-08T15:34:12.564+0000] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2025-09-08T15:34:12.582+0000] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2025-09-08T15:34:12.582+0000] {sql.py:509} INFO - Running statement: 
+            INSERT INTO users (name, age, is_active) VALUES 
+                ('Julie', 30, false),
+                ('Peter', 55, true),
+                ('Emily', 37, false),
+                ('Katrina', 54, false),
+                ('Joseph', 27, true);
+        , parameters: None
+[2025-09-08T15:34:12.583+0000] {sql.py:518} INFO - Rows affected: 5
+[2025-09-08T15:34:12.588+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-08T15:34:12.589+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=executing_sql_pipeline, task_id=insert_values_1, run_id=manual__2025-09-08T15:34:07.941265+00:00, execution_date=20250908T153407, start_date=20250908T153412, end_date=20250908T153412
+[2025-09-08T15:34:12.610+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-09-08T15:34:12.618+0000] {logging_mixin.py:190} WARNING - /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/baseoperator.py:1378 AirflowProviderDeprecationWarning: Call to deprecated class SqliteOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.)
+[2025-09-08T15:34:12.625+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-08T15:34:12.625+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

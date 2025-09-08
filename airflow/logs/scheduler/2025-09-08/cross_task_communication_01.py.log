@@ -1,0 +1,15 @@
+[2025-09-08T00:04:35.694+0000] {processor.py:186} INFO - Started process (PID=55774) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/cross_task_communication_01.py
+[2025-09-08T00:04:35.695+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/cross_task_communication_01.py for tasks to queue
+[2025-09-08T00:04:35.696+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:35.695+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/cross_task_communication_01.py
+[2025-09-08T00:04:35.711+0000] {processor.py:925} INFO - DAG(s) 'cross_task_communication' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/cross_task_communication_01.py
+[2025-09-08T00:04:36.127+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.126+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:cross_task_communication
+[2025-09-08T00:04:36.176+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.175+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:cross_task_communication
+[2025-09-08T00:04:36.201+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.201+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:cross_task_communication
+[2025-09-08T00:04:36.222+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.222+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:cross_task_communication
+[2025-09-08T00:04:36.232+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.231+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:cross_task_communication
+[2025-09-08T00:04:36.243+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.242+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:cross_task_communication
+[2025-09-08T00:04:36.252+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.252+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:cross_task_communication
+[2025-09-08T00:04:36.254+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.253+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T00:04:36.291+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.291+0000] {dag.py:3262} INFO - Creating ORM DAG for cross_task_communication
+[2025-09-08T00:04:36.316+0000] {logging_mixin.py:190} INFO - [2025-09-08T00:04:36.316+0000] {dag.py:4180} INFO - Setting next_dagrun for cross_task_communication to 2025-09-07 00:00:00+00:00, run_after=2025-09-08 00:00:00+00:00
+[2025-09-08T00:04:36.342+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/cross_task_communication_01.py took 0.655 seconds

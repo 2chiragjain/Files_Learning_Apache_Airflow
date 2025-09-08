@@ -1,0 +1,202 @@
+[2025-09-08T17:01:18.899+0000] {processor.py:186} INFO - Started process (PID=16090) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:01:18.900+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:01:18.902+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:18.901+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:01:18.921+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:01:19.085+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:19.084+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:01:19.114+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:19.113+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-03 00:00:00+00:00, run_after=2025-09-04 00:00:00+00:00
+[2025-09-08T17:01:19.144+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.252 seconds
+[2025-09-08T17:01:52.679+0000] {processor.py:186} INFO - Started process (PID=16368) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:01:52.680+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:01:52.681+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:52.680+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:01:52.691+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:01:52.709+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:52.709+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:01:52.727+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:52.727+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 00:00:00+00:00, run_after=2025-09-08 00:00:00+00:00
+[2025-09-08T17:01:52.748+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.073 seconds
+[2025-09-08T17:02:25.918+0000] {processor.py:186} INFO - Started process (PID=16650) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:02:25.919+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:02:25.921+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:02:25.920+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:02:25.933+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:02:25.960+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:02:25.960+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:02:25.986+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:02:25.986+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-08 00:00:00+00:00, run_after=2025-09-09 00:00:00+00:00
+[2025-09-08T17:02:26.001+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.087 seconds
+[2025-09-08T17:02:57.256+0000] {processor.py:186} INFO - Started process (PID=16871) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:02:57.257+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:02:57.258+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:02:57.258+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:02:57.268+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:02:57.360+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:02:57.360+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:02:57.369+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:02:57.369+0000] {dag.py:3262} INFO - Creating ORM DAG for cron_catchup_backfill
+[2025-09-08T17:02:57.376+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:02:57.376+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-03 00:00:00+00:00, run_after=2025-09-04 00:00:00+00:00
+[2025-09-08T17:02:57.392+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.140 seconds
+[2025-09-08T17:03:22.971+0000] {processor.py:186} INFO - Started process (PID=17069) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:22.972+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:03:22.973+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:22.972+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:22.983+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:22.988+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:22.988+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:03:23.008+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:23.008+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-08-09 00:00:00+00:00, run_after=2025-08-09 12:00:00+00:00
+[2025-09-08T17:03:23.025+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.058 seconds
+[2025-09-08T17:03:25.152+0000] {processor.py:186} INFO - Started process (PID=17097) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:25.153+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:03:25.154+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:25.153+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:25.165+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:25.172+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:25.172+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:03:25.190+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:25.189+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-08-09 00:00:00+00:00, run_after=2025-08-09 12:00:00+00:00
+[2025-09-08T17:03:25.206+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.059 seconds
+[2025-09-08T17:03:29.432+0000] {processor.py:186} INFO - Started process (PID=17131) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:29.433+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:03:29.434+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:29.433+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:29.444+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:03:29.535+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:29.535+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:03:29.550+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:03:29.549+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-08-09 00:00:00+00:00, run_after=2025-08-09 12:00:00+00:00
+[2025-09-08T17:03:29.567+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.140 seconds
+[2025-09-08T17:04:12.187+0000] {processor.py:186} INFO - Started process (PID=17470) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:04:12.187+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:04:12.189+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:04:12.188+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:04:12.198+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:04:12.216+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:04:12.216+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:04:12.234+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:04:12.234+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-08-23 12:00:00+00:00, run_after=2025-08-30 00:00:00+00:00
+[2025-09-08T17:04:12.251+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.069 seconds
+[2025-09-08T17:04:42.318+0000] {processor.py:186} INFO - Started process (PID=17731) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:04:42.319+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:04:42.320+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:04:42.319+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:04:42.329+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:04:42.347+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:04:42.346+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:04:42.363+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:04:42.363+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-06 00:00:00+00:00, run_after=2025-09-06 12:00:00+00:00
+[2025-09-08T17:04:42.378+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.064 seconds
+[2025-09-08T17:05:13.409+0000] {processor.py:186} INFO - Started process (PID=17982) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:13.410+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:05:13.411+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:13.411+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:13.421+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:13.438+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:13.438+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:05:13.455+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:13.455+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-06 12:00:00+00:00, run_after=2025-09-13 00:00:00+00:00
+[2025-09-08T17:05:13.475+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.070 seconds
+[2025-09-08T17:05:42.344+0000] {processor.py:186} INFO - Started process (PID=18209) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:42.344+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:05:42.345+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:42.345+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:42.356+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:42.451+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:42.451+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:05:42.462+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:42.462+0000] {dag.py:3262} INFO - Creating ORM DAG for cron_catchup_backfill
+[2025-09-08T17:05:42.471+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:42.471+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-06 00:00:00+00:00, run_after=2025-09-06 12:00:00+00:00
+[2025-09-08T17:05:42.489+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.150 seconds
+[2025-09-08T17:05:44.987+0000] {processor.py:186} INFO - Started process (PID=18228) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:44.987+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:05:44.988+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:44.988+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:44.999+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:45.005+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:45.005+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:05:45.023+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:45.023+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-06 00:00:00+00:00, run_after=2025-09-06 12:00:00+00:00
+[2025-09-08T17:05:45.040+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.057 seconds
+[2025-09-08T17:05:46.137+0000] {processor.py:186} INFO - Started process (PID=18236) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:46.138+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:05:46.139+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:46.138+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:46.149+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:05:46.155+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:46.155+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:05:46.173+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:05:46.173+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-06 00:00:00+00:00, run_after=2025-09-06 12:00:00+00:00
+[2025-09-08T17:05:46.190+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.057 seconds
+[2025-09-08T17:06:04.588+0000] {processor.py:186} INFO - Started process (PID=18373) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:06:04.588+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:06:04.589+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:06:04.589+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:06:04.599+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:06:04.605+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:06:04.605+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:06:04.622+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:06:04.622+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 00:00:00+00:00, run_after=2025-09-07 12:00:00+00:00
+[2025-09-08T17:06:04.639+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.055 seconds
+[2025-09-08T17:06:35.420+0000] {processor.py:186} INFO - Started process (PID=18618) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:06:35.421+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:06:35.422+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:06:35.422+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:06:35.437+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:06:35.552+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:06:35.551+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:06:35.576+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:06:35.576+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 12:00:00+00:00, run_after=2025-09-13 00:00:00+00:00
+[2025-09-08T17:06:35.593+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.178 seconds
+[2025-09-08T17:07:06.633+0000] {processor.py:186} INFO - Started process (PID=18934) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:07:06.633+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:07:06.634+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:07:06.634+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:07:06.644+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:07:06.663+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:07:06.663+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:07:06.681+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:07:06.681+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 12:00:00+00:00, run_after=2025-09-13 00:00:00+00:00
+[2025-09-08T17:07:06.697+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.068 seconds
+[2025-09-08T17:07:36.877+0000] {processor.py:186} INFO - Started process (PID=19292) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:07:36.877+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:07:36.878+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:07:36.878+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:07:36.888+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:07:36.906+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:07:36.905+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:07:36.923+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:07:36.922+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 12:00:00+00:00, run_after=2025-09-13 00:00:00+00:00
+[2025-09-08T17:07:36.938+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.066 seconds
+[2025-09-08T17:08:07.262+0000] {processor.py:186} INFO - Started process (PID=19685) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:08:07.263+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:08:07.265+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:08:07.264+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:08:07.277+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:08:07.317+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:08:07.315+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:08:07.374+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.117 seconds
+[2025-09-08T17:08:37.643+0000] {processor.py:186} INFO - Started process (PID=20060) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:08:37.644+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:08:37.646+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:08:37.645+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:08:37.661+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:08:37.689+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:08:37.689+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:08:37.761+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.124 seconds
+[2025-09-08T17:09:08.598+0000] {processor.py:186} INFO - Started process (PID=20432) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:09:08.599+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:09:08.600+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:09:08.600+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:09:08.630+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:09:08.668+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:09:08.668+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:09:08.717+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.126 seconds
+[2025-09-08T17:09:39.675+0000] {processor.py:186} INFO - Started process (PID=20786) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:09:39.675+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:09:39.677+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:09:39.677+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:09:39.697+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:09:39.731+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:09:39.731+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:09:39.785+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.124 seconds
+[2025-09-08T17:10:10.710+0000] {processor.py:186} INFO - Started process (PID=21167) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:10:10.712+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:10:10.715+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:10:10.714+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:10:10.728+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:10:10.754+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:10:10.753+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:10:10.777+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:10:10.777+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 12:00:00+00:00, run_after=2025-09-13 00:00:00+00:00
+[2025-09-08T17:10:10.796+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.095 seconds
+[2025-09-08T17:10:41.754+0000] {processor.py:186} INFO - Started process (PID=21547) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:10:41.756+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:10:41.757+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:10:41.756+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:10:41.771+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:10:41.816+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:10:41.815+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:10:41.865+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.117 seconds
+[2025-09-08T17:11:12.883+0000] {processor.py:186} INFO - Started process (PID=21942) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:11:12.883+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:11:12.885+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:11:12.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:11:12.898+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:11:12.924+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:11:12.924+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:11:12.968+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.091 seconds
+[2025-09-08T17:11:43.083+0000] {processor.py:186} INFO - Started process (PID=22319) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:11:43.083+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:11:43.085+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:11:43.084+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:11:43.098+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:11:43.121+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:11:43.121+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:11:43.157+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.080 seconds
+[2025-09-08T17:12:13.355+0000] {processor.py:186} INFO - Started process (PID=22668) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:12:13.356+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:12:13.357+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:12:13.357+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:12:13.373+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:12:13.400+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:12:13.399+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:12:13.445+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.096 seconds
+[2025-09-08T17:12:43.943+0000] {processor.py:186} INFO - Started process (PID=23030) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:12:43.944+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:12:43.945+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:12:43.945+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:12:43.960+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:12:44.004+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:12:44.002+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:12:44.048+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:12:44.048+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 12:00:00+00:00, run_after=2025-09-13 00:00:00+00:00
+[2025-09-08T17:12:44.075+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.139 seconds
+[2025-09-08T17:13:14.842+0000] {processor.py:186} INFO - Started process (PID=23420) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:13:14.842+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:13:14.844+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:13:14.844+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:13:14.858+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:13:14.889+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:13:14.889+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:13:14.938+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.103 seconds
+[2025-09-08T17:13:45.773+0000] {processor.py:186} INFO - Started process (PID=23829) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:13:45.774+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:13:45.775+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:13:45.775+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:13:45.795+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:13:45.822+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:13:45.822+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:13:45.873+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.106 seconds
+[2025-09-08T17:14:16.421+0000] {processor.py:186} INFO - Started process (PID=24195) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:14:16.422+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py for tasks to queue
+[2025-09-08T17:14:16.423+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:14:16.423+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:14:16.433+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py
+[2025-09-08T17:14:16.450+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:14:16.449+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:14:16.466+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:14:16.466+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-07 12:00:00+00:00, run_after=2025-09-13 00:00:00+00:00
+[2025-09-08T17:14:16.483+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill.py took 0.066 seconds

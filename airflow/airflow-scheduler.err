@@ -1,5 +1,9 @@
-[2025-09-07 22:32:48 +0000] [15183] [INFO] Starting gunicorn 23.0.0
-[2025-09-07 22:32:48 +0000] [15183] [INFO] Listening at: http://[::]:8793 (15183)
-[2025-09-07 22:32:48 +0000] [15183] [INFO] Using worker: sync
-[2025-09-07 22:32:48 +0000] [15184] [INFO] Booting worker with pid: 15184
-[2025-09-07 22:32:48 +0000] [15189] [INFO] Booting worker with pid: 15189
+[2025-09-08 16:38:05 +0000] [4274] [INFO] Starting gunicorn 23.0.0
+[2025-09-08 16:38:05 +0000] [4274] [INFO] Listening at: http://[::]:8793 (4274)
+[2025-09-08 16:38:05 +0000] [4274] [INFO] Using worker: sync
+[2025-09-08 16:38:05 +0000] [4275] [INFO] Booting worker with pid: 4275
+[2025-09-08 16:38:05 +0000] [4277] [INFO] Booting worker with pid: 4277
+[2025-09-08 17:14:31 +0000] [4274] [INFO] Handling signal: term
+[2025-09-08 17:14:31 +0000] [4275] [INFO] Worker exiting (pid: 4275)
+[2025-09-08 17:14:31 +0000] [4277] [INFO] Worker exiting (pid: 4277)
+[2025-09-08 17:14:31 +0000] [4274] [INFO] Shutting down: Master

@@ -1,0 +1,18 @@
+[2025-09-08T00:03:23.251+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-08T00:03:23.258+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: execute_python_operators.greet_hello_with_city manual__2025-09-08T00:03:18.378179+00:00 [queued]>
+[2025-09-08T00:03:23.262+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: execute_python_operators.greet_hello_with_city manual__2025-09-08T00:03:18.378179+00:00 [queued]>
+[2025-09-08T00:03:23.262+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2025-09-08T00:03:23.273+0000] {taskinstance.py:2888} INFO - Executing <Task(PythonOperator): greet_hello_with_city> on 2025-09-08 00:03:18.378179+00:00
+[2025-09-08T00:03:23.276+0000] {standard_task_runner.py:72} INFO - Started process 55222 to run task
+[2025-09-08T00:03:23.278+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'execute_python_operators', 'greet_hello_with_city', 'manual__2025-09-08T00:03:18.378179+00:00', '--job-id', '36', '--raw', '--subdir', 'DAGS_FOLDER/execute_multiple_tasks.py', '--cfg-path', '/tmp/tmpqfnrloz5']
+[2025-09-08T00:03:23.279+0000] {standard_task_runner.py:105} INFO - Job 36: Subtask greet_hello_with_city
+[2025-09-08T00:03:23.303+0000] {task_command.py:467} INFO - Running <TaskInstance: execute_python_operators.greet_hello_with_city manual__2025-09-08T00:03:18.378179+00:00 [running]> on host codespaces-9bd7b3
+[2025-09-08T00:03:23.347+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='execute_python_operators' AIRFLOW_CTX_TASK_ID='greet_hello_with_city' AIRFLOW_CTX_EXECUTION_DATE='2025-09-08T00:03:18.378179+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-08T00:03:18.378179+00:00'
+[2025-09-08T00:03:23.347+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-08T00:03:23.358+0000] {logging_mixin.py:190} INFO - Hello, Louise from Seattle
+[2025-09-08T00:03:23.358+0000] {python.py:240} INFO - Done. Returned value was: None
+[2025-09-08T00:03:23.362+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-08T00:03:23.362+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=execute_python_operators, task_id=greet_hello_with_city, run_id=manual__2025-09-08T00:03:18.378179+00:00, execution_date=20250908T000318, start_date=20250908T000323, end_date=20250908T000323
+[2025-09-08T00:03:23.411+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-09-08T00:03:23.420+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-08T00:03:23.420+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

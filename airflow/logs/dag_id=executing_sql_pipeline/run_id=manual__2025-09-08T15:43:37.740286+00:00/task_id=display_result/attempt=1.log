@@ -1,0 +1,20 @@
+[2025-09-08T15:43:50.244+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-08T15:43:50.251+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_sql_pipeline.display_result manual__2025-09-08T15:43:37.740286+00:00 [queued]>
+[2025-09-08T15:43:50.257+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_sql_pipeline.display_result manual__2025-09-08T15:43:37.740286+00:00 [queued]>
+[2025-09-08T15:43:50.257+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2025-09-08T15:43:50.268+0000] {taskinstance.py:2888} INFO - Executing <Task(SqliteOperator): display_result> on 2025-09-08 15:43:37.740286+00:00
+[2025-09-08T15:43:50.270+0000] {standard_task_runner.py:72} INFO - Started process 22403 to run task
+[2025-09-08T15:43:50.273+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_sql_pipeline', 'display_result', 'manual__2025-09-08T15:43:37.740286+00:00', '--job-id', '84', '--raw', '--subdir', 'DAGS_FOLDER/executing_sql_pipeline.py', '--cfg-path', '/tmp/tmpuev6pj2a']
+[2025-09-08T15:43:50.274+0000] {standard_task_runner.py:105} INFO - Job 84: Subtask display_result
+[2025-09-08T15:43:50.297+0000] {task_command.py:467} INFO - Running <TaskInstance: executing_sql_pipeline.display_result manual__2025-09-08T15:43:37.740286+00:00 [running]> on host codespaces-9bd7b3
+[2025-09-08T15:43:50.342+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='executing_sql_pipeline' AIRFLOW_CTX_TASK_ID='display_result' AIRFLOW_CTX_EXECUTION_DATE='2025-09-08T15:43:37.740286+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-08T15:43:37.740286+00:00'
+[2025-09-08T15:43:50.342+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-08T15:43:50.355+0000] {sql.py:266} INFO - Executing: SELECT * FROM users
+[2025-09-08T15:43:50.358+0000] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2025-09-08T15:43:50.375+0000] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2025-09-08T15:43:50.376+0000] {sql.py:509} INFO - Running statement: SELECT * FROM users, parameters: None
+[2025-09-08T15:43:50.386+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-08T15:43:50.387+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=executing_sql_pipeline, task_id=display_result, run_id=manual__2025-09-08T15:43:37.740286+00:00, execution_date=20250908T154337, start_date=20250908T154350, end_date=20250908T154350
+[2025-09-08T15:43:50.406+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-09-08T15:43:50.414+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-09-08T15:43:50.415+0000] {local_task_job_runner.py:245} INFO - ::endgroup::

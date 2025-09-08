@@ -1,0 +1,15 @@
+[2025-09-08T17:01:15.664+0000] {processor.py:186} INFO - Started process (PID=16068) to work on /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill_01.py
+[2025-09-08T17:01:15.669+0000] {processor.py:914} INFO - Processing file /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill_01.py for tasks to queue
+[2025-09-08T17:01:15.670+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:15.670+0000] {dagbag.py:588} INFO - Filling up the DagBag from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill_01.py
+[2025-09-08T17:01:15.696+0000] {processor.py:925} INFO - DAG(s) 'cron_catchup_backfill' retrieved from /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill_01.py
+[2025-09-08T17:01:15.981+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:15.979+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:cron_catchup_backfill
+[2025-09-08T17:01:16.003+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.003+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:cron_catchup_backfill
+[2025-09-08T17:01:16.028+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.028+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:cron_catchup_backfill
+[2025-09-08T17:01:16.067+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.066+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:cron_catchup_backfill
+[2025-09-08T17:01:16.093+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.093+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:cron_catchup_backfill
+[2025-09-08T17:01:16.114+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.113+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:cron_catchup_backfill
+[2025-09-08T17:01:16.135+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.134+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:cron_catchup_backfill
+[2025-09-08T17:01:16.135+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.135+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-09-08T17:01:16.160+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.159+0000] {dag.py:3262} INFO - Creating ORM DAG for cron_catchup_backfill
+[2025-09-08T17:01:16.171+0000] {logging_mixin.py:190} INFO - [2025-09-08T17:01:16.170+0000] {dag.py:4180} INFO - Setting next_dagrun for cron_catchup_backfill to 2025-09-03 00:00:00+00:00, run_after=2025-09-04 00:00:00+00:00
+[2025-09-08T17:01:16.195+0000] {processor.py:208} INFO - Processing /workspaces/Files_Learning_Apache_Airflow/airflow/dags/executing_cron_catchup_backfill_01.py took 0.545 seconds

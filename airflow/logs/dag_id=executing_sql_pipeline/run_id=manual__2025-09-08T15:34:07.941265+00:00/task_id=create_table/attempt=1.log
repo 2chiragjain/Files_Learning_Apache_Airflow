@@ -1,0 +1,37 @@
+[2025-09-08T15:34:10.420+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2025-09-08T15:34:10.427+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: executing_sql_pipeline.create_table manual__2025-09-08T15:34:07.941265+00:00 [queued]>
+[2025-09-08T15:34:10.432+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: executing_sql_pipeline.create_table manual__2025-09-08T15:34:07.941265+00:00 [queued]>
+[2025-09-08T15:34:10.432+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2025-09-08T15:34:10.443+0000] {taskinstance.py:2888} INFO - Executing <Task(SqliteOperator): create_table> on 2025-09-08 15:34:07.941265+00:00
+[2025-09-08T15:34:10.446+0000] {standard_task_runner.py:72} INFO - Started process 17236 to run task
+[2025-09-08T15:34:10.448+0000] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'executing_sql_pipeline', 'create_table', 'manual__2025-09-08T15:34:07.941265+00:00', '--job-id', '65', '--raw', '--subdir', 'DAGS_FOLDER/executing_sql_pipeline.py', '--cfg-path', '/tmp/tmp807k_zkw']
+[2025-09-08T15:34:10.449+0000] {standard_task_runner.py:105} INFO - Job 65: Subtask create_table
+[2025-09-08T15:34:10.473+0000] {task_command.py:467} INFO - Running <TaskInstance: executing_sql_pipeline.create_table manual__2025-09-08T15:34:07.941265+00:00 [running]> on host codespaces-9bd7b3
+[2025-09-08T15:34:10.518+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='loonycorn' AIRFLOW_CTX_DAG_ID='executing_sql_pipeline' AIRFLOW_CTX_TASK_ID='create_table' AIRFLOW_CTX_EXECUTION_DATE='2025-09-08T15:34:07.941265+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-09-08T15:34:07.941265+00:00'
+[2025-09-08T15:34:10.518+0000] {taskinstance.py:731} INFO - ::endgroup::
+[2025-09-08T15:34:10.531+0000] {sql.py:266} INFO - Executing: 
+            CREATE TABLE IF NOT EXISTS users (
+                    id INTEGER PRIMARY KEY,
+                    name VARCHAR(50) NOT NULL,
+                    age INTEGER NOT NULL,
+                    is_active BOOLEAN DEFAULT true,
+                    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        
+[2025-09-08T15:34:10.534+0000] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2025-09-08T15:34:10.551+0000] {base.py:84} INFO - Retrieving connection 'my_sqlite_conn'
+[2025-09-08T15:34:10.551+0000] {sql.py:509} INFO - Running statement: 
+            CREATE TABLE IF NOT EXISTS users (
+                    id INTEGER PRIMARY KEY,
+                    name VARCHAR(50) NOT NULL,
+                    age INTEGER NOT NULL,
+                    is_active BOOLEAN DEFAULT true,
+                    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        , parameters: None
+[2025-09-08T15:34:10.554+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2025-09-08T15:34:10.555+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=executing_sql_pipeline, task_id=create_table, run_id=manual__2025-09-08T15:34:07.941265+00:00, execution_date=20250908T153407, start_date=20250908T153410, end_date=20250908T153410
+[2025-09-08T15:34:10.581+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2025-09-08T15:34:10.588+0000] {logging_mixin.py:190} WARNING - /usr/local/python/3.12.1/lib/python3.12/site-packages/airflow/models/baseoperator.py:1378 AirflowProviderDeprecationWarning: Call to deprecated class SqliteOperator. (Please use `airflow.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.)
+[2025-09-08T15:34:10.598+0000] {taskinstance.py:3900} INFO - 2 downstream tasks scheduled from follow-on schedule check
+[2025-09-08T15:34:10.602+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
